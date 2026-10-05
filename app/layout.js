@@ -7,7 +7,7 @@ const hind = Hind_Siliguri({ subsets: ["bengali", "latin"], weight: ["400", "500
 export const metadata = {
   metadataBase: new URL("https://globalskinhub.com"),
   title: "Globalskinhub — Imported Cosmetics & Premium Brands",
-  description: "বিদেশি ব্র্যান্ডের স্কিনকেয়ার, বডি কেয়ার ও বিউটি সাপ্লিমেন্ট। WhatsApp-এ সহজে অর্ডার করুন: 01975749812",
+  description: "বিদেশি ব্র্যান্ডের স্কিনকেয়ার, বডি কেয়ার ও বিউটি সাপ্লিমেন্ট। WhatsApp-এ সহজে অর্ডার করুন:01982807179",
   openGraph: {
     title: "Globalskinhub — Imported Cosmetics & Premium Brands",
     description: "বিদেশি ব্র্যান্ডের স্কিনকেয়ার ও বিউটি প্রোডাক্ট, WhatsApp-এ সহজ অর্ডার।",
