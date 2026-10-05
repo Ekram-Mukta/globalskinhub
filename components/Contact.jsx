@@ -24,7 +24,7 @@ export default function Contact() {
           </div>
           <ul className="contact-list">
             <li><span>ফোন ও অর্ডার</span><a href={`tel:${SITE.phoneTel}`}>{SITE.phoneDisplay}</a></li>
-            <li><span>WhatsApp</span><a href={waLink()} target="_blank" rel="noopener noreferrer">+880 1975-749812</a></li>
+            <li><span>WhatsApp</span><a href={waLink()} target="_blank" rel="noopener noreferrer">+880 1982-807179</a></li>
             <li><span>Facebook</span><a href={SITE.facebook} target="_blank" rel="noopener noreferrer">Globalskinhub পেজ</a></li>
             <li><span>ওয়েবসাইট</span><a href={`https://${SITE.website}`}>{SITE.website}</a></li>
           </ul>
